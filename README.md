@@ -12,10 +12,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🛠️ Projects
 
-### [Project 1: My Portfolio](https://github.com/atharvagadade22/Portfolio)
+### [Project 1: My Portfolio](https://github.com/atharvagadade22/Portfolio-project)
 A project built using Django Framework and the Postgresql database management system. 
 
-### [Project 2: Home automation system](https://github.com/atharvagadade22/cool-app)
+### [Project 2: Home automation system](https://github.com/atharvagadade22/IoT_Based_Home_Automation)
 IoT based home automation system built using C/C++ programming languages.
 
 
@@ -25,7 +25,7 @@ IoT based home automation system built using C/C++ programming languages.
 
 ## 📫 How to reach me
 
-- LinkedIn: [Atharva Gadade](https://www.linkedin.com/in/atharvagadade22/)
+- LinkedIn: [Atharva Gadade](www.linkedin.com/in/atharva-gadade-a728b0206)
 - Email: atharvagadade22@gmail.com
 
 ## 🌟 Fun Facts
