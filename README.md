@@ -25,7 +25,7 @@ IoT based home automation system built using C/C++ programming languages.
 
 ## 📫 How to reach me
 
-- LinkedIn: [Atharva Gadade](www.linkedin.com/in/atharva-gadade-a728b0206)
+- LinkedIn: [Atharva Gadade](https://www.linkedin.com/in/atharva-gadade-a728b0206/)
 - Email: atharvagadade22@gmail.com
 
 ## 🌟 Fun Facts
