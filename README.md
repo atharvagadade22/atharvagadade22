@@ -1,25 +1,37 @@
-- 👋 Hi, I’m Atharva Navnath Gadade
-- 👀 I’m interested in:
-- Artificial Intelligence: Exploring the frontiers of AI, from natural language processing to computer vision.
-- Machine Learning: Developing intelligent systems that learn from data.
-- Data Science: Unlocking insights from data through statistical analysis and visualization.
-- 🌱 I’m currently learning:
-- Python: Deepening my understanding of Python's data science and machine learning libraries.
-- TensorFlow and PyTorch: Building robust neural networks for complex tasks.
-- 💞️ I’m looking to collaborate on :
-- Open-source projects: Contributing to the global developer community.
-- AI and ML projects: Building innovative solutions to real-world problems.
-- Hackathons: Collaborating with like-minded individuals to create amazing projects under time constraints.
-- 📫 How to reach me :
+# Hi there, I'm Atharva Gadade! 👋
+
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development and open-source contributions. Here's a little bit about me:
+
+## 🔧 Technologies & Tools
+
+- **Languages:** Python, JavaScript, Java, C++
+- **Frameworks:** React, Django, Express, Flask, Tensorflow, PyTourch
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Cloud Services:** AWS, Azure, Google Cloud
+
+## 🛠️ Projects
+
+### [Project 1: My Portfolio](https://github.com/atharvagadade22/Portfolio)
+A project built using Django Framework and the Postgresql database management system. 
+
+### [Project 2: Home automation system](https://github.com/atharvagadade22/cool-app)
+IoT based home automation system built using C/C++ programming languages.
+
+
+## 📈 GitHub Stats
+
+![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvagadade22&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+
+- LinkedIn: [Atharva Gadade](https://www.linkedin.com/in/atharvagadade22/)
 - Email: atharvagadade22@gmail.com
-- LinkedIn: https://www.linkedin.com/in/atharva-gadade-a728b0206/  
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing chess and exploring new technologies.
 
+## 🌟 Fun Facts
 
+- 🚀 I love exploring new technologies and building projects.
+- 🌱 I'm currently learning about artificial intelligence and machine learning.
+- ⚡ In my free time, I enjoy reading tech blogs and playing chess.
 
-
-<!---
-atharvagadade22/atharvagadade22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate on any projects.
